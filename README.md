@@ -1,5 +1,8 @@
 # RSpec CircleCI Coverage
 
+> [!IMPORTANT]
+> This plugin has moved: https://github.com/CircleCI-Public/smarter-testing-plugins
+
 A RSpec plugin that generates coverage data for
 CircleCI's [Smarter Testing](https://circleci.com/docs/guides/test/smarter-testing/).
 
